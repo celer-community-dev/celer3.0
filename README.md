@@ -1,6 +1,6 @@
-Celer Core integration/staging repository
+Celer Community Core 3.0 integration/staging repository
 =====================================
-![Celer Coin](https://raw.githubusercontent.com/CelerCoin/celer/master/src/qt/res/icons/bitcoin.png)
+![Celer Coin](https://raw.githubusercontent.com/celer-community-dev/celer3.0/master/src/qt/res/icons/bitcoin.png)
 
 * [Celer Official Website](https://celercoin.com)
 * [Celer BlockExplorer](http://explorer.celercoin.com)
@@ -11,7 +11,7 @@ Celer Core integration/staging repository
 
 -------
 
-### Celer Specifications
+### Celer 3.0 Specifications
 <table>
 <tr><td>Ticker</td><td>CELER</td></tr>
 <tr><td>Algorithm</td><td>NeoScrypt</td></tr>
